@@ -78,7 +78,6 @@ Current published research includes:
 ## Background
 
 - **PhD Researcher** — The University of Edinburgh
-- **AI Research Scientist** — Rigpa.ai
 - **MSc Materials Chemistry** — The University of Edinburgh
 - **BEng Chemical Engineering and Technology** — Harbin Engineering University
 
